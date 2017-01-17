@@ -105,11 +105,13 @@
 ------
 
 **Followers as Companions**: напарники больше не плетутся сзади, а идут рядом.
+
 [Followers as Companions](http://www.nexusmods.com/skyrim/mods/62863/)
 
 ------
 
 **Useful Dogs**: расширяет возможности псов, позволяя приказать им искать и приносить всякое нужное и не очень барахло.
+
 [Useful Dogs](http://www.nexusmods.com/skyrim/mods/64021/)
 
 ------
