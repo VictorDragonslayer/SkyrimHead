@@ -30,12 +30,6 @@
 
 ------
 
-**Follower Commentary Overhaul** или **Relationship Dialogue Overhaul**: довольно неплохие оверхолы фраз NPC, с которыми вы знакомы.
-
-[FCO](http://www.nexusmods.com/skyrim/mods/52019/) | [RDO](http://www.nexusmods.com/skyrim/mods/74568/)
-
-------
-
 **No NPC Greetings**: NPC не орут тебе через пол квартала "привет", а главное, стражники больше не будут сообщать о стреле в коленке, едва завидев тебя на горизонте.
 
 [No NPC Greetings](http://www.nexusmods.com/skyrim/mods/746/)
