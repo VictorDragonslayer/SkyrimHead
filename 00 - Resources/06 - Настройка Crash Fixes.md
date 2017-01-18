@@ -22,5 +22,5 @@ http://www.nexusmods.com/skyrim/mods/75795/ - без него всё это не
 
 ------
 
-|[*Назад к очень важным надстройкам*](https://github.com/Meridiano/SkyrimHead/blob/master/02 - Minimum/02 - Очень важные надстройки.md)|
+|[*Назад к очень важным надстройкам*](../02 - Minimum/02 - Очень важные надстройки.md)|
 |:---:|
