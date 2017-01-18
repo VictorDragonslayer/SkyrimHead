@@ -1,0 +1,10 @@
+[Display]
+iTintTextureResolution=2048
+
+[General]
+ClearInvalidRegistrations=1
+EnableDiagnostics=1
+
+[Memory]
+DefaultHeapInitialAllocMB=768
+ScrapHeapSizeMB=256
