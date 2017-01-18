@@ -16,7 +16,7 @@
 
 ------
 
-**Summermyst - Enchantments of Skyrim** или **Wintermyst - Enchantments of Skyrim**: новые и полезные зачарования, на разные вкусы.
+**Summermyst - Enchantments of Skyrim** или **Wintermyst - Enchantments of Skyrim**: новые и полезные зачарования на разные вкусы.
 
 > Wintermyst больше не разрабатывается, но список зачарований на 30 у него штук больше (на 18 января 2017). Ставь что-то одно.
 
