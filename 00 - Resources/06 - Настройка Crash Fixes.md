@@ -19,3 +19,8 @@ http://www.nexusmods.com/skyrim/mods/75795/ - без него всё это не
 > UseOSAllocators=1
 
 > AlignHeapAllocate=1
+
+------
+
+|[*Назад к очень важным надстройкам*](https://github.com/Meridiano/SkyrimHead/blob/master/02 - Minimum/02 - Очень важные надстройки.md)|
+|:---:|
