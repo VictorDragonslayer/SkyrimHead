@@ -18,7 +18,7 @@
 
 **Summermyst - Enchantments of Skyrim** или **Wintermyst - Enchantments of Skyrim**: новые и полезные зачарования на разные вкусы.
 
-> Wintermyst больше не разрабатывается, но список зачарований на 30 у него штук больше (на 18 января 2017). Ставь что-то одно.
+> Wintermyst больше не разрабатывается, но список зачарований у него на 30 штук больше (на 18 января 2017). Ставь что-то одно.
 
 [Summermyst](http://www.nexusmods.com/skyrim/mods/80918/) | [Wintermyst](http://www.nexusmods.com/skyrim/mods/58635/)
 
