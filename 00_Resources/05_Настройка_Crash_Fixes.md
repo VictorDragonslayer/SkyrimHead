@@ -9,7 +9,7 @@
 > ExpandSystemMemoryX64=false  
 > ReduceSystemMemoryUsage=true
 
-**3) [Plugin Preloader**](http://www.nexusmods.com/skyrim/mods/75795/?) - без него всё это не работает.
+**3)** [**Plugin Preloader**](http://www.nexusmods.com/skyrim/mods/75795/?) - без него всё это не работает.
 
 **4) CrashFixPlugin.ini**
 
