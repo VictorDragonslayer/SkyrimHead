@@ -3,19 +3,6 @@
 
 Пояснение по принципу именования параметров: префикс (первая буква) означает его тип, т.е. b - bool, f - float, i - integer и т.д. Если параметр в файле конфигурации не написан, то используется значение по умолчанию.
 
-Это - список всех значений по умолчанию.
-`[Papyrus]
-fUpdateBudgetMS=1.2
-fExtraTaskletBudgetMS=1.2
-fPostLoadUpdateTimeMS=500.0 ;Xenon and PS3 use 2000.0
-iMinMemoryPageSize=128
-iMaxMemoryPageSize=512
-iMaxAllocatedMemoryBytes=76800
-bEnableLogging=0
-bEnableTrace=0
-bLoadDebugInformation=0
-bEnableProfiling=0`
-
 > bEnableLogging
 
 > bEnableProfiling
@@ -27,3 +14,11 @@ bEnableProfiling=0`
 > uTraceStatusOfQuest
 
 Нужны для записи отладочной информации в логи Папируса. Если ты не тестируешь свой скрипт и не подозреваешь, что у тебя переполняется стек, держи эти параметры выключенными. Логи Папируса **не являются** логами краша игры, а вот операция записи в файл забирает ресурсы.
+
+> iMinMemoryPageSize
+
+> iMaxMemoryPageSize
+
+> iMaxAllocatedMemoryBytes
+
+Определяет, сколько памяти может использовать VM Папируса. Не вздумай трогать эти значения.
