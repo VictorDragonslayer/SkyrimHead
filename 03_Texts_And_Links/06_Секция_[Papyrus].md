@@ -5,28 +5,21 @@
 
 ------
 
-> bEnableLogging
-
-> bEnableProfiling
-
-> bEnableTrace
-
-> bLoadDebugInformation
-
+> bEnableLogging  
+> bEnableProfiling  
+> bEnableTrace  
+> bLoadDebugInformation  
 > uTraceStatusOfQuest
 
 Нужны для записи отладочной информации в логи Папируса. Если ты не тестируешь свой мод и не подозреваешь, что у тебя переполняется стек, держи эти параметры выключенными. Логи Папируса **не являются** логами краша игры, а вот операция записи в файл забирает ресурсы.
 
-> iMinMemoryPageSize
-
-> iMaxMemoryPageSize
-
+> iMinMemoryPageSize  
+> iMaxMemoryPageSize  
 > iMaxAllocatedMemoryBytes
 
 Определяет, сколько памяти может использовать VM Папируса. Не вздумай трогать эти значения.
 
-> fUpdateBudgetMS
-
+> fUpdateBudgetMS  
 > fExtraTaskletBudgetMS
 
 `fUpdateBudgetMS` определяет, сколько времени из периода цикла движка игры отводится на выполнение скриптов. При 60 FPS цикл занимает 16,6 миллисекунды, при 30 FPS - 33 миллисекунды. Увеличивай `fUpdateBudgetMS` только при необходимости и только на небольшие значения. `fExtraTaskletBudgetMS` - дополнительное время, оно может потребоваться при высокой скриптовой активности (и оно тоже сказывается на FPS).
