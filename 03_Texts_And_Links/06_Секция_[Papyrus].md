@@ -1,4 +1,4 @@
-#Секция [Papyrus] в skyrim.ini
+# Секция [Papyrus] в skyrim.ini
 
 В файле skyrim.ini Имеется секция [Papyrus], и сейчас я коротко расскажу, какие параметры в ней стоит трогать, а какие - нет. Советую прочесть [1](https://www.reddit.com/r/skyrimmods/comments/2gwvwl/guide_papyrus_ini_settings_and_why_you_shouldnt/), [2](http://forums.bethsoft.com/topic/1487930-getting-a-lot-of-script-lag-going-over-10000-ms-sometimes/?p=23340131), [3](http://wiki.step-project.com/Guide:Skyrim_INI/Papyrus) и [4](http://www.creationkit.com/index.php?title=INI_Settings_(Papyrus)), дабы наиболее полно понять тему.
 
