@@ -1,18 +1,18 @@
 # Годнота от Enai Siaion
 
->Прежде всего, ни один из этих модов не опасен для скриптов. Если ты всё же нашел что-то - смело пиши ему, исправит в течении нескольких дней. Хотя чаще всего это твои кривые руки.
+>Прежде всего, ни один из этих модов не опасен для скриптов. Если ты всё же нашел что-то - смело пиши ему, исправит в течение нескольких дней. Хотя чаще всего это твои кривые руки.
 
 ------
 
 **Wildcat - Combat of Skyrim**: годная боёвка, с травмами, ранениями и соответствующими дебаффами. Теперь бой с тремя и больше врагами напоминает избиение младенца ногами. В роли младенца игрок, да. Но всё настраивается.
 
-[Wildcat](http://www.nexusmods.com/skyrim/mods/76529/)
+[Wildcat](http://www.nexusmods.com/skyrim/mods/76529/?)
 
 ------
 
-**Sacrosanct - Vampires of Skyrim**: новое древо перков для вампира, с новыми абилками и фичами. Теперь вампиры грозные создания ночи, какие и должны быть.
+**Sacrosanct - Vampires of Skyrim**: новое древо перков для вампира, с новыми абилками и фичами. Теперь вампиры грозные создания ночи, какими и должны быть.
 
-[Sacrosanct](http://www.nexusmods.com/skyrim/mods/80918/)
+[Sacrosanct](http://www.nexusmods.com/skyrim/mods/80918/?)
 
 ------
 
@@ -20,49 +20,49 @@
 
 > Wintermyst больше не разрабатывается, но список зачарований у него на 30 штук больше (на 18 января 2017). Ставь что-то одно.
 
-[Summermyst](http://www.nexusmods.com/skyrim/mods/80918/) | [Wintermyst](http://www.nexusmods.com/skyrim/mods/58635/)
+[Summermyst](http://www.nexusmods.com/skyrim/mods/80918/?) | [Wintermyst](http://www.nexusmods.com/skyrim/mods/58635/?)
 
 ------
 
-**Modern Brawl Bugs Fix**: фикс для боёв на кулаках. Уже включен в Wildcat.
+**Modern Brawl Bugs Fix**: фикс для боёв на кулаках. Уже включен в Wildcat и некоторые другие моды.
 
-[Modern Brawl Bugs Fix](http://www.nexusmods.com/skyrim/mods/77465/)
+[Modern Brawl Bugs Fix](http://www.nexusmods.com/skyrim/mods/77465/?)
 
 ------
 
 **Ordinator - Perks of Skyrim**: обширные деревья перков для всего и вся. Достойная смена для SPERG, тебе понравится.
 
-[Ordinator](http://www.nexusmods.com/skyrim/mods/68425/)
+[Ordinator](http://www.nexusmods.com/skyrim/mods/68425/?)
 
 ------
 
-**Imperious - Races of Skyrim**: по три расовых абилки и квест для их разблокировки на каждую расу. НПС тоже используют их.
+**Imperious - Races of Skyrim**: по три расовых абилки и квест для их разблокировки на каждую расу. NPC тоже используют их.
 
-[Imperious](http://www.nexusmods.com/skyrim/mods/61218/)
+[Imperious](http://www.nexusmods.com/skyrim/mods/61218/?)
 
 ------
 
 **Dwemertech - Magic of the Dwarves**: магия двемеров (около ста новых спеллов) и годные квесты к ней на 1-3 часа игры. Бионические улучшения, магические посохи, фаерболы для Экстерминатуса отдельно взятой области - всё тут.
 
-[Dwemertech](http://www.nexusmods.com/skyrim/mods/56037/)
+[Dwemertech](http://www.nexusmods.com/skyrim/mods/56037/?)
 
 ------
 
 **Spectraverse - Magic of Magne-Ge**: магия Магне-Ге, с квестами к ней и новыми спеллами (порядка 50).
 
-[Spectraverse](http://www.nexusmods.com/skyrim/mods/53780/)
+[Spectraverse](http://www.nexusmods.com/skyrim/mods/53780/?)
 
 ------
 
-**Apocalypse - MAgic of Skyrim**: 155 новых сбалансированных спеллов и еще пара десятков в дополнении.
+**Apocalypse - Magic of Skyrim**: 155 новых сбалансированных спеллов и еще пара десятков в дополнении.
 
-[Apocalypse](http://www.nexusmods.com/skyrim/mods/16225/) | [More Apocalypse](http://www.nexusmods.com/skyrim/mods/65527/)
+[Apocalypse](http://www.nexusmods.com/skyrim/mods/16225/?) | [More Apocalypse](http://www.nexusmods.com/skyrim/mods/65527/?)
 
 ------
 
 **Thunderchild - Epic Shouts and Immersion**: несколько десятков новых криков и переработка старых.
 
-[Thunderchild](http://www.nexusmods.com/skyrim/mods/41376/)
+[Thunderchild](http://www.nexusmods.com/skyrim/mods/41376/?)
 
 ------
 
