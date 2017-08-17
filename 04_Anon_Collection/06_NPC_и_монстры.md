@@ -67,6 +67,12 @@
 
 # Монстры
 
+**Моды Мишани**: туева хуча различной монстрятины.
+
+[Моды Мишани](http://www.nexusmods.com/skyrim/users/37834630/?tb=mods&pUp=1)
+
+------
+
 **The Kids Are Alright**: изменяет внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [The Kids Are Alright](http://www.nexusmods.com/skyrim/mods/83009/?)
