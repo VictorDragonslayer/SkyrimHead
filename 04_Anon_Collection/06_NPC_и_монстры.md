@@ -73,6 +73,12 @@
 
 ------
 
+**Truly Undead**: нежить нужно отправлять в мир иной огнём/серебром, иначе она воскреснет. Качайте **по указанной ссылке** - [тут](https://forums.nexusmods.com/index.php?/topic/1208876-truly-undead-reborn/page-26#entry32772670) описана причина.
+
+[Truly Undead](https://www.nexusmods.com/skyrim/mods/12452/?tab=2&navtag=https%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D12452&pUp=1) - лежит среди опциональных
+
+------
+
 **The Kids Are Alright**: изменяет внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [The Kids Are Alright](http://www.nexusmods.com/skyrim/mods/83009/?)
