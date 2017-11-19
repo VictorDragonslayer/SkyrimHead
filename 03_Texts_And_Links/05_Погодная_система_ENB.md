@@ -12,9 +12,9 @@
 + Перемещаем этот файл в папку /enbseries/, в которой лежит [_weatherlist.ini].
 + Открываем [_weatherlist.ini], вводим название файла и ID погоды, чтобы выглядело примерно так:
 
-> [WEATHER001]  
-> FileName=SkyrimClear.ini  
-> WeatherIDs=81A
+    > [WEATHER001]  
+    > FileName=SkyrimClear.ini  
+    > WeatherIDs=81A
 
 + Сохраняем изменения, возвращаем на место наш сохранённый в самом начале [enbseries.ini].
 + Теперь погода 81A будет использовать файл [SkyrimClear.ini] из папки /enbseries/ вместо общего [enbseries.ini].
