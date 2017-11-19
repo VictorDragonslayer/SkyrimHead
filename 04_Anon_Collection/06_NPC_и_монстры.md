@@ -13,9 +13,9 @@
 
 ------
 
-**INIGO**: синий каджит. Да, просто синий каджит. Нет, не в этом смысле синий. Возьми его с собой, вы поладите.
+**INIGO**: синий каджит. Да, просто синий каджит. Нет, не в этом смысле синий. Возьми его с собой, вы поладите. Есть аддон, добавляющий к нему МСМ.
 
-[Inigo](http://www.nexusmods.com/skyrim/mods/40960/?), аддон [Inigo MCM](http://www.nexusmods.com/skyrim/mods/70035/?)
+[Inigo](http://www.nexusmods.com/skyrim/mods/40960/?) | [Inigo MCM](http://www.nexusmods.com/skyrim/mods/70035/?)
 
 ------
 
@@ -67,15 +67,17 @@
 
 # Монстры
 
-**Моды Мишани**: туева хуча различной монстрятины.
+**Моды от Михаила Романова**: большое количество совершенно разных монстров.
 
-[Моды Мишани](http://www.nexusmods.com/skyrim/users/37834630/?tb=mods&pUp=1)
+[MihailMods](http://www.nexusmods.com/skyrim/users/37834630/?tb=mods&pUp=1)
 
 ------
 
-**Truly Undead**: нежить нужно отправлять в мир иной огнём/серебром, иначе она воскреснет. Качайте **по указанной ссылке** - [тут](https://forums.nexusmods.com/index.php?/topic/1208876-truly-undead-reborn/page-26#entry32772670) описана причина.
+**Truly Undead**: с ним нежить нужно отправлять в мир иной огнём/серебром, иначе она воскреснет.
 
-[Truly Undead](https://www.nexusmods.com/skyrim/mods/12452/?tab=2&navtag=https%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D12452&pUp=1) - лежит среди опциональных
+> Новая версия лежит среди опциональных модов к Ultimate Deadly Encounters, ссылка не ошибочна. Просто используй поиск по "Truly Undead".
+
+[Truly Undead Alternate SOT Team Version](https://www.nexusmods.com/skyrim/mods/12452/?)
 
 ------
 
