@@ -79,6 +79,12 @@
 
 ------
 
+**Beasts of Tamriel**: добавляет кучу живности, васянистые экземпляры можно отключить в MCM (ещё анон советует отключить змей).
+
+[Beasts of Tamriel](https://www.nexusmods.com/skyrim/mods/76203/?)
+
+------
+
 **The Kids Are Alright**: изменяет внешний вид клонированных картофельных гномов, чтобы их наконец-то можно было назвать детьми.
 
 [The Kids Are Alright](http://www.nexusmods.com/skyrim/mods/83009/?)
