@@ -28,7 +28,7 @@
 
 > Объединён в новую "адскую" версию, рекомендуется ставить именно её.
 
-[Erkeil Team](http://erkeilmods.altervista.org/skyrim/welcome/) | [HELL EDITION](http://www.nexusmods.com/skyrim/mods/73315/?)
+[Populated Skyrim - HELL EDITION](http://www.nexusmods.com/skyrim/mods/73315/?)
 
 ------
 
