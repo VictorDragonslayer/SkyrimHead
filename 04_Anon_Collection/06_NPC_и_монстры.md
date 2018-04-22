@@ -54,7 +54,7 @@
 
 > Для ванильных женщин есть объединённый сборник All-In-One. Если будешь ставить его, не забудь про требования.
 
-[Моды от rxkx22](https://www.nexusmods.com/skyrim/users/2650523/?tb=mods&pUp=1) | [Bijin All-In-One](https://www.nexusmods.com/skyrim/mods/72626/?)
+[Моды от rxkx22](https://www.nexusmods.com/skyrim/users/2650523/?tab=user+files) | [Bijin All-In-One](https://www.nexusmods.com/skyrim/mods/72626/?)
 
 ------
 
@@ -88,7 +88,7 @@
 
 **Моды от Михаила Романова**: большое количество совершенно разных монстров.
 
-[MihailMods](http://www.nexusmods.com/skyrim/users/37834630/?tb=mods&pUp=1)
+[MihailMods](https://www.nexusmods.com/skyrim/users/37834630/?tab=user+files)
 
 ------
 
